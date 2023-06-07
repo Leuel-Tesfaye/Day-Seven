@@ -1,0 +1,14 @@
+// function 
+// A function is a reusable block of code or programming statements designed to perform a certain task. A function is declared by a function key word followed by a name, followed by parentheses ().
+
+function makes code : 
+1. clean and easy to use
+2. easy to test and modify 
+3. reusable when ever we want 
+
+
+//declaring a function without a parameter
+function functionName() {
+  // code goes here
+}
+functionName() // calling function by its name and with parentheses
